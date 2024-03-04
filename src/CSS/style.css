@@ -1,0 +1,18 @@
+.main{
+    text-align: center;
+}
+
+.btn{
+    background-color: cadetblue;
+    color: white;
+    margin: 5px;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.btn:hover{
+    filter: drop-shadow(5px 5px 1px #1c1c1c1c);
+    cursor: pointer;
+}
+
